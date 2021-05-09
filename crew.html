@@ -10,7 +10,7 @@ title: Crew
 </div>
 
 <ul>
-  {% for member in site.members %}
+  {% assign members = site.members | sort: 'order' %} {% for member in members%}
   <li>
     <h2><a href="{{ member.url }}">{{ member.title }}</a></h2>
     <h3>{{ member.position }}</h3>

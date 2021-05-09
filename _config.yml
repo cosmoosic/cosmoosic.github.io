@@ -5,7 +5,6 @@ title: "Cosmoose" # the name of your site, e.g. ACME Corp.
 collections:
   members:
     output: true
-    sort_by: order
 
 plugins:
   - jekyll-feed
