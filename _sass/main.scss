@@ -4,6 +4,8 @@ $linkColor: rgb(161, 255, 224);
 $visitedColor: rgb(194, 168, 255);
 $transparentBlack: hsla(0, 0%, 0%, 0.8);
 $transparentGreen: rgba(161, 255, 225, 0.8);
+$titleColor: Aquamarine;
+$highlightColor: AliceBlue;
 
 @font-face {
   font-family: "urw_gothic_lbook";
@@ -132,4 +134,31 @@ a {
 }
 a:hover {
   text-shadow: -1px 1px 8px #ffc, 1px -1px 8px #fff;
+}
+.bigger {
+  font-size: 1.2em;
+}
+.highlight {
+  color: $highlightColor;
+}
+body {
+  counter-reset: h2counter;
+}
+h1 {
+  counter-reset: h2counter;
+}
+h2 {
+  color: $titleColor;
+}
+h3 {
+  color: $titleColor;
+}
+h2.numbered:before {
+  content: counter(h2counter) ".\0000a0\0000a0";
+  counter-increment: h2counter;
+  counter-reset: h3counter;
+}
+h3.numbered:before {
+  content: counter(h2counter) "." counter(h3counter) ".\0000a0\0000a0";
+  counter-increment: h3counter;
 }
