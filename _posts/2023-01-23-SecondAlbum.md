@@ -9,7 +9,8 @@ _Here we review Cosmoose's 2022 and announce the new album!_
 
 ## Announcement
 
-This Friday our new album, New Galaxies, releases on Spotify and all other streaming platforms, as well as BandCamp.
+This Friday our new album, New Galaxies, was just released on 
+[Spotify](https://open.spotify.com/album/0yZtzOMf4ZwJr7EO9pYAE3?si=RE1LxO1VRC-r6hfSmwbQ3A) and all other streaming platforms ([Youtube](https://www.youtube.com/watch?v=e9morZO082E&list=OLAK5uy_mFRW63KuvwfkV7wNzQVOnr24Zmsoe7lK8), other links in this [linktree](https://linktr.ee/cosmoose)), as well as [BandCamp](https://cosmoose.bandcamp.com/album/new-galaxies).
 
 We are very excited about this album, which features a plethora of new collaborations with great artists, including our great friends from IMF, [Rielle](https://twitter.com/rielle_vox) and [Coyoti](https://www.echothehuman.com/), [Zephyrianna](https://twitter.com/zephyrianna/) and a remix of Wool's favorite [CallaSoiled](https://twitter.com/callasoiled).
 
